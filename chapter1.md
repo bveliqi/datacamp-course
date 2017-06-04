@@ -19,7 +19,7 @@ Have a look at the plot that showed up in the viewer to the right. Which type of
 Have a look at the plot. Do you see a trend in the dots?
 
 *** =pre_exercise_code
-```{python}
+```{scala}
 # The pre exercise code runs code to initialize the user's workspace.
 # You can use it to load packages, initialize datasets and draw a plot in the viewer
 
@@ -33,7 +33,7 @@ plt.show()
 ```
 
 *** =sct
-```{python}
+```{scala}
 # SCT written with pythonwhat: https://github.com/datacamp/pythonwhat/wiki
 
 msg_bad = "That is not correct!"
